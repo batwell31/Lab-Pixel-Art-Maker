@@ -17,7 +17,7 @@ This project was completed by me through Udacity.  I'm currently enrolled in the
 
 * Left click a cell block to change that cell to the color you have selected!
 
-**Warning** - Pressing submit after you make alter cell color will reset the grid to the default color.
+**Warning** - Pressing submit will completely reset the grid.
 
 ## Test it out! ##
 
